@@ -1,8 +1,1 @@
-*.MOV
-*.mp4
-*.jpeg
-*.JPEG
-*.jpg
-*.JPG
-*.png
-*.PNG
+.ipynb-checkpoints
